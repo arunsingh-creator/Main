@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 __version__ = "0.2.6-Heroku-Master-Finalised."
-__author__ = "AmirulAndalib [amirulandalib@github]"
+__author__ = "RedclubX [kumar9555gautam@gmail.com]"
 
 import logging
 
