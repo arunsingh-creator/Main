@@ -203,13 +203,13 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub"> 
+        <a href="https://telegram.me/"> 
           <h2 class="name">TorToolkitX</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/KangersHub/TortoolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/"><i class="fab fa-github"></i></a>
+        <a href="https://telegram.me/"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
